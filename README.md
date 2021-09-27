@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oftox
 - 👀 I’m interested in C++, Python and Javascript
-- 🌱 I’m currently learning C++/sfml
+- 🌱 I’m currently learning C++/sfml, SQL and Godot Engine
 
 
 <!---
